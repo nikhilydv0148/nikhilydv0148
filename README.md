@@ -2,7 +2,8 @@
 - 👀 I’m interested in wen development and prompt Engineering 
 - 🌱 I’m currently learning web development 
 - 
-- 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/nikhil0148/
+- 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/nikhil0148
+- All Profiles - nikhilydv.cc.cc
 - 😄 Pronouns: nikkee
 - ⚡ Fun fact: finding
 
