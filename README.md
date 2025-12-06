@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nikhilydv0148
-- 👀 I’m interested in wen development and prompt Engineering 
+- 👀 I’m interested in web development and prompt Engineering 
 - 🌱 I’m currently learning web development 
 - 
 - 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/nikhil0148
 - All Profiles - nikhilydv.cc.cc
-- 😄 Pronouns: nikkee
+- 😄 Pronouns: nikku
 - ⚡ Fun fact: finding
 
 <!---
