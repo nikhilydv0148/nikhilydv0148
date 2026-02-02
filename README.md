@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nikhilydv0148
 - 👀 I’m interested in web development and prompt Engineering 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development and Ai &ML
 - 
 - 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/nikhil0148
-- All Profiles - nikhilydv.cc.cc
+- All Profiles - nikhim.me
 - 😄 Pronouns: nikku
 - ⚡ Fun fact: finding
 
